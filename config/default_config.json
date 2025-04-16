@@ -1,0 +1,18 @@
+{
+    "max_concurrency": 5,
+    "log_dir": "logs",
+    "temp_dir": "temp",
+    "output_dir": "output",
+    "languages": [
+        {
+            "name": "csharp",
+            "target": "data\\csharp\\c_sharp_example.txt",
+            "docker": "tars-csharp:latest"
+        },
+        {
+            "name": "java",
+            "target": "data\\java\\java_example.txt",
+            "docker": "tars-java:latest"
+        }
+    ]
+}

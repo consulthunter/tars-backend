@@ -1,0 +1,1 @@
+https://github.com/consulthunter/testify-java-example.git
