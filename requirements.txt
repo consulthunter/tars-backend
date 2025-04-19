@@ -5,3 +5,5 @@ GitPython~=3.1.44
 aiofiles~=24.1.0
 uvicorn~=0.34.0
 alembic~=1.15.2
+psycopg2~=2.9.10
+python-dotenv~=1.1.0
